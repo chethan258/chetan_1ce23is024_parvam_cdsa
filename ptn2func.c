@@ -20,3 +20,4 @@ void pack()
 void sat(int x){
     printf("\nsat fun %d\n",x);
 }
+ 
